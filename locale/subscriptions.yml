@@ -1,0 +1,13 @@
+subscriptions:
+  following: Избранное
+  ignoring: Игнорировать
+  follow: В избранное
+  unfollow: Удалить из избранного
+  ignore: Игнорировать
+  notify_new_post: Quelqu'un publie dans une discussion que je suis
+  new_post_notification: "{username} ответил"
+  not_following: Не следить
+  not_following_description: Уведомлять только когда к вам будет обращение.
+  following_description: Уведомлять о всех ответах
+  ignoring_description: Никогда не уведомлять. Скрыть из списка дискуссий.
+  unignore: Не игнорировать

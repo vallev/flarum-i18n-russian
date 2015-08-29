@@ -1,0 +1,8 @@
+lock:
+  discussion_locked_notification: "{username} закрыл"
+  discussion_locked_post: "{username} закрыл дискуссию."
+  discussion_unlocked_post: "{username} открыл дискуссию."
+  notify_discussion_locked: Кто-то закрыл дискуссию, которую создал я
+  locked: Закрыто
+  lock: Закрыть
+  unlock: Открыть

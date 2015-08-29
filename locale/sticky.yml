@@ -1,0 +1,8 @@
+sticky:
+  discussion_stickied_notification: "{username} прикрепил"
+  discussion_stickied_post: "{username} прикрепил дискуссию."
+  discussion_unstickied_post: "{username} открепил дискуссию."
+  notify_discussion_stickied: Кто-то прикрепил дискуссию, которую я создал
+  stickied: Прикреплено
+  sticky: Прикрепить
+  unsticky: Открепить
