@@ -48,4 +48,4 @@ Your Russian localization extension is now updated. But you have to clear the ca
 
 ## License
 
-Released under the MIT License. Please see the [LICENSE] (https://github.com/maxyc/flarum-i18n-russian/LICENSE) file.
+Released under the MIT License. Please see the [LICENSE] (https://github.com/maxyc/flarum-i18n-russian/blob/master/LICENSE) file.

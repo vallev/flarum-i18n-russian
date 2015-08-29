@@ -4,7 +4,7 @@ subscriptions:
   follow: В избранное
   unfollow: Удалить из избранного
   ignore: Игнорировать
-  notify_new_post: Quelqu'un publie dans une discussion que je suis
+  notify_new_post: Кто то написал в дискуссию, за которой я слежу
   new_post_notification: "{username} ответил"
   not_following: Не следить
   not_following_description: Уведомлять только когда к вам будет обращение.

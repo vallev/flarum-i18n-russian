@@ -4,25 +4,25 @@ core:
   administration: Администрирование
   alert: Внимание!
   all_discussions: Все дискуссии
-  before_log_in_link: Déjà inscrit ?
-  before_sign_up_link: Pas encore inscrit ?
+  before_log_in_link: Уже есть аккаунт?
+  before_sign_up_link: Еще нет аккаунта?
   bio_placeholder: Расскажите о себе что нибудь
   cannot_reply: Нельзя отвечать
   cannot_reply_help: У вас нет прав отвечать в этой дискуссии.
   change_email: Изменить e-mail
   change_password: Изменить пароль
-  change_password_help: Cliquez sur le bouton ci-dessous et accédez au lien dans l'e-mail que nous vous avons envoyé pour modifier votre mot de passe.
+  change_password_help: Нажмите кнопку ниже и проверьте ваш email. Там ссылка на страницу изменения пароля.
   close: Закрыть
-  confirm_delete_discussion: Êtes-vous sûr de vouloir supprimer cette discussion ?
-  confirm_discard_discussion: Vous n'avez pas publié votre discussion. Souhaitez-vous l'abandonner ?
-  confirm_discard_edit: Vous n'avez pas enregistré vos modifications. Souhaitez-vous les abandonner ?
-  confirm_discard_reply: Vous n'avez pas publié votre réponse. Souhaitez-vous l'abandonner ?
-  confirmation_email_sent: "Nous avons envoyé un e-mail de confirmation à {email}. Si vous ne le recevez pas dans les quelques minutes qui suivent, vérifiez le contenu de votre dossier contenant les e-mails indésirables."
+  confirm_delete_discussion: Вы действительно хотите удалить эту дискуссию?
+  confirm_discard_discussion: Вы не опубликовали дискуссию. Отменить её?
+  confirm_discard_edit: Вы не сохранили изменения. Отменить их?
+  confirm_discard_reply: Вы не опубликовали ваш ответ. Отменить его?
+  confirmation_email_sent: "Мы отправили вам письмо с подтверждением регистрации на ящик {email}. Если письма нет более 5 минут, проверьте папку спама"
   controls: Действия
   delete: Удалить
   delete_forever: Удалить навсегда
   deleted: "[удалено]"
-  disclose_online: Autoriser les autres à voir que je suis en ligne
+  disclose_online: Разрешить другим видеть когда я online
   discussion_renamed_post: "{username} изменил запись с {old} на {new}."
   discussion_renamed_notification: "{username} изменил заголовок дискуссии"
   discussion_replied: "Последний ответ {ago} от {username}"
@@ -31,12 +31,12 @@ core:
   discussions: Дискуссии
   dismiss: Отменить
   edit: Редактировать
-  editing_post: "Message #{number} dans {discussion}"
+  editing_post: "Запись #{number} в {discussion}"
   email: E-mail
-  email_confirmation_required: "Vous devez confirmer votre adresse e-mail avant de pouvoir vous connecter. Nous avons envoyé un e-mail de confirmation à {email}. Si vous ne le recevez pas dans les quelques minutes qui suivent, vérifiez le contenu de votre dossier contenant les e-mails indésirables."
+  email_confirmation_required: "Вам необходимо подтвердить ваш email прежде чем авторизоваться. Проверьте ваш почтовый ящик, если письмо не пришло через более чем 5 минут, проверьте папку спама."
   exit_full_screen: Выйти из полноэкранного режима
   forgot_password: Забыли пароль
-  forgot_password_help: Saisissez votre adresse e-mail pour que nous vous envoyons un lien qui vous permettra de réinitialiser votre mot de passe.
+  forgot_password_help:  Введите ваш email адрес и мы отправим вам ссылку для сброса пароля.
   forgot_password_link: Забыли пароль?
   full_screen: Полноэкранный режим
   go_to: "Перейти в {location}"
@@ -50,8 +50,8 @@ core:
   group_mods: Модераторы
   invalid_login: Логин или пароль неверны
   joined: "Вступил {ago}"
-  joined_the_forum: Inscrit au forum
-  load_more: Charger davantage
+  joined_the_forum: Вступил в форум
+  load_more: Загрузить еще
   log_in: Войти
   log_in_to_reply: Войти и ответить
   log_out: Выйти
@@ -60,13 +60,13 @@ core:
   minimize: Свернуть
   no_notifications: Нет уведомлений
   notifications: Уведомления
-  notify_discussion_renamed: Quelqu'un renomme une discussion que j'ai démarrée
+  notify_discussion_renamed: Кто-то переименовал дискуссию, которую я создал
   now: Сейчас
   online: Online
   original_post: Первая запись
   password: Пароль
-  password_reset_email_sent: Nous vous avons envoyé un e-mail contenant un lien pour réinitialiser votre mot de passe. Si vous ne le recevez pas dans les quelques minutes qui suivent, vérifiez le contenu de votre dossier contenant les e-mails indésirables.
-  period_later: "{period} plus tard"
+  password_reset_email_sent:  Мы отправили вам письмо, содержащее ссылку на страницу сброса пароля. Проверьте папку спам, если оно не пришло в течении 5 минут
+  period_later: "{period} позже"
   post_discussion: Опубликовать дискуссию
   post_edited: "Отредактировано {ago}  {username}"
   post_number: "Сообщение #{number}"
@@ -76,18 +76,18 @@ core:
   powered_by_flarum: Создано на основе Flarum
   privacy: Конфидиальность
   profile: Профиль
-  prompt_rename_discussion: Saisissez un nouveau titre pour cette discussion :
+  prompt_rename_discussion: Введите новый заголовок для этой дискуссии:
   recover_password: Восстановить пароль
   refresh: Обновить
   remove: Удалить
   rename: Переименовать
   reply: Ответить
-  reply_posted: Votre réponse a été publiée.
+  reply_posted: Ваш ответ опубликован.
   restore: Восстановить
   save_changes: Сохранить изменения
-  search_all_discussions: 'Rechercher "{query}" dans toutes les discussions'
+  search_all_discussions: 'Поиск по запросу "{query}"'
   search_forum: Поиск по форуму
-  send_password_reset_email: Envoyer l'e-mail de réinitialisation du mot de passe
+  send_password_reset_email: Отправить ссылку сброса пароля
   settings: Настройки
   sign_up: Регистрация
   sort_latest: Последние
@@ -96,7 +96,7 @@ core:
   sort_relevance: Самое интересное
   sort_top: Популярные
   start_a_discussion: Создать дискуссию
-  started_a_discussion: A démarré une discussion
+  started_a_discussion: Стартовал дискуссию
   unread_posts: "{count} непрочитанных сообщений"
   upload: Загрузить
   username: Имя пользователя
