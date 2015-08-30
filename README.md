@@ -22,7 +22,7 @@
 
 ### How to download?
 
-Click [here] (https://github.com/maelsoucaze/flarum/archive/master.zip) or on the *Download ZIP* button in the right panel, as simple as that!
+Click [here] (https://github.com/maxyc/flarum-i18n-russian/archive/master.zip) or on the *Download ZIP* button in the right panel, as simple as that!
 
 ### How to install?
 
