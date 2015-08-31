@@ -1,10 +1,16 @@
 mentions:
   reply_to_post: "Ответить на #{number}"
   post_mentioned_notification: "{username} ответил на вашу запись"
-  others: "{count} других"
+  others:
+    one: "{count} другой"
+    two: "{count} других"
+    other: "{count} других"
   user_mentioned_notification: "{username} обратился к вам"
-  post_mentioned_by: "{users} ответило на это."
-  you: Вам
+  post_mentioned_by:
+    one: "{users} ответил на это."
+    two: "{users} ответили на это."
+    other: "{users} ответили на это."
+  you: Я
   reply_link: Ответить
   notify_post_mentioned: Кто-то ответил на мою запись
   notify_user_mentioned: Кто-то обратился к вам в записи

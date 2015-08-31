@@ -97,14 +97,18 @@ core:
   sort_top: Популярные
   start_a_discussion: Создать дискуссию
   started_a_discussion: Стартовал дискуссию
-  unread_posts: "{count} непрочитанных сообщений"
+  unread_posts:
+    one: "{count} непрочитанное сообщение"
+    two: "{count} непрочитанных сообщений"
+    other: "{count} непрочитанных сообщений"
   upload: Загрузить
   username: Имя пользователя
   username_or_email: Имя пользователя или e-mail
   users: Пользователи
   view: Просмотр
   viewing_posts:
-    one: "{index} из {count} записей"
+    one: "{index} из {count} записи"
+    two: "{index} из {count} записей"
     other: "{index} из {count} записей"
   welcome_user: "Добро пожаловать, {username} !"
   write_a_post: Написать пост...
