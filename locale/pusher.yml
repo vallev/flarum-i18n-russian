@@ -1,4 +1,5 @@
 pusher:
   show_updated_discussions:
-    one: "Afficher {count} discussion mise à jour"
-    other: "Afficher {count} discussions mises à jour"
+    one: "Показать {count} обновленную дискуссию"
+    two: "Показать {count} обновленных дискуссию"
+    other: "Показать {count} обновленных дискуссию"
