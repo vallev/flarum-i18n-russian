@@ -1,21 +1,17 @@
 <?php
 
-/*
- * This file is part of Flarum.
- *
- * (c) Toby Zerner <toby.zerner@gmail.com>
- *
- * For the full copyright and license information, please view the LICENSE
- * file that was distributed with this source code.
- */
-
 return [
     'plural' => function ($count) {
-        if ($count >= 0 AND $count < 2) {
-            return 'one';
-        }
-        else {
+        if ($count%10==1 && $count%100!=11) {
+	    return 'one';
+	}
+
+	if ($count%10>=2 && $count%10<=4 && ($count%100<10 || $count%100>=20)) {
+	    return 'two';
+	} else {
             return 'other';
         }
     }
 ];
+
+?>
