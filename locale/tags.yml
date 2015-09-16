@@ -1,4 +1,5 @@
 tags:
+  tags: Тэги
   discussion_tagged_post:
     one: "{username} {action} тэг."
     two: "{username} {action} тэги."
@@ -6,6 +7,7 @@ tags:
   added_tags: "добавлены {tags}"
   removed_tags: "удалены {tags}"
   tag_new_discussion_title: Укажите тэги для вашей дискуссии
+  tag_new_discussion_link: Укажите тэги
   edit_discussion_tags_title: "Редактирование тэгов {title}"
   edit_discussion_tags_link: Редактировать тэги
   choose_primary_tags:
@@ -18,4 +20,4 @@ tags:
     other: "Выберите не более {count} дополнительных тэгов"
   confirm: Подтвердить
   more: Еще...
-  deleted: Удален
+  deleted: Удалён
