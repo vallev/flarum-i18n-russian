@@ -1,13 +1,13 @@
 likes:
-  post_liked_notification: "{username} понравился ваша запись"
+  post_liked_notification: "{username} понравилась ваша запись"
   post_likes_modal_title: Пользователи, кому понравилась эта запись
   post_liked_by_self: "{users} нравится."
   post_liked_by: "Нравится: {users}."
   unlike_action: Не нравится
   like_action: Мне нравится
-  notify_post_liked: Кому-то понравился мой пост
+  notify_post_liked: Кому-то понравился ваш пост
   others:
     one: "{count} другой"
     two: "{count} других"
     other: "{count} другие"
-  you: Мне
+  you: Вам
